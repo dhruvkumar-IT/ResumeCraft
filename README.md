@@ -3,7 +3,7 @@
 
 A modern, responsive, and easy-to-use Resume Builder that helps users create professional resumes without registration or complicated steps.
 
-🌐 **Live Website:** [Open ResumeCraft AI](https://dhruvkumar-IT.github.io/resumecraft-ai/)
+🌐 **Live Website:** [Open ResumeCraft AI](https://dhruvkumar-it.github.io/resumecraft-ai/)
 
 ---
 
